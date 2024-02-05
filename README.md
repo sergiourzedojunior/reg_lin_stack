@@ -1,2 +1,2 @@
-# reg_lin_stack
+# reg_linear
  regressão linear exemplos
